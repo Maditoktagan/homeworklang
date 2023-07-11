@@ -1,0 +1,15 @@
+C:\Users\Madi\Desktop\Мади\sem 04\sem004_homework\obj\Debug\net6.0\sem004_homework.csproj.AssemblyReference.cache
+C:\Users\Madi\Desktop\Мади\sem 04\sem004_homework\obj\Debug\net6.0\sem004_homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madi\Desktop\Мади\sem 04\sem004_homework\obj\Debug\net6.0\sem004_homework.AssemblyInfoInputs.cache
+C:\Users\Madi\Desktop\Мади\sem 04\sem004_homework\obj\Debug\net6.0\sem004_homework.AssemblyInfo.cs
+C:\Users\Madi\Desktop\Мади\sem 04\sem004_homework\obj\Debug\net6.0\sem004_homework.csproj.CoreCompileInputs.cache
+C:\Users\Madi\Desktop\Мади\sem 04\sem004_homework\bin\Debug\net6.0\sem004_homework.exe
+C:\Users\Madi\Desktop\Мади\sem 04\sem004_homework\bin\Debug\net6.0\sem004_homework.deps.json
+C:\Users\Madi\Desktop\Мади\sem 04\sem004_homework\bin\Debug\net6.0\sem004_homework.runtimeconfig.json
+C:\Users\Madi\Desktop\Мади\sem 04\sem004_homework\bin\Debug\net6.0\sem004_homework.dll
+C:\Users\Madi\Desktop\Мади\sem 04\sem004_homework\bin\Debug\net6.0\sem004_homework.pdb
+C:\Users\Madi\Desktop\Мади\sem 04\sem004_homework\obj\Debug\net6.0\sem004_homework.dll
+C:\Users\Madi\Desktop\Мади\sem 04\sem004_homework\obj\Debug\net6.0\refint\sem004_homework.dll
+C:\Users\Madi\Desktop\Мади\sem 04\sem004_homework\obj\Debug\net6.0\sem004_homework.pdb
+C:\Users\Madi\Desktop\Мади\sem 04\sem004_homework\obj\Debug\net6.0\sem004_homework.genruntimeconfig.cache
+C:\Users\Madi\Desktop\Мади\sem 04\sem004_homework\obj\Debug\net6.0\ref\sem004_homework.dll
